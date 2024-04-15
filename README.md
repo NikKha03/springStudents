@@ -1,1 +1,1 @@
-# springStudents
+# Простое REST приложение с использованием spring boot
